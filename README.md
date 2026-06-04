@@ -3,11 +3,11 @@
 </div>
 <br>
 <div>
-Olá, meu nome é Eduardo Bissoli e atuo como programador Front-End, desenvolvendo aplicações web criativas e responsivas
+Olá, meu nome é Eduardo Bissoli e atuo como programador Front-End, desenvolvendo aplicações web criativas e responsivas.
 </div>
 <br>
 <div>
-codando desde os 13/14 anos
+codando desde os 13/14 anos.
 </div>
 <br>
 <div align=left>
