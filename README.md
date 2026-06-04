@@ -22,7 +22,9 @@ Curiosidade 💡 - Amante de Anime e Pixel Art
 <br>
 <img src="./gifs/demo.gif" />
 <br>
+<div>
 Será um prazer trabalhar com você !!!
+</div>
 <br>
 <div>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch"/>
